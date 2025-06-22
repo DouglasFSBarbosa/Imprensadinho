@@ -21,7 +21,7 @@ Imprensadinho é um jogo onde a cada rodada o sistema irá sortear um número al
 - 👤 O jogador então escolhe o número "**10**", acertando o número secreto;
 - 🤖 O sistema indicará que o jogador perdeu o jogo pois acertou o número secreto.
 
-Neste exemplo, o jogador ganharia a partida cao escolhesse os números "**9**" e "**11**" (os números antecessor e o sucessor do número secreto, "**10**").
+Neste exemplo, o jogador ganharia a partida caso escolhesse os números "**9**" e "**11**" (os números antecessor e o sucessor do número secreto, "**10**").
 
 
 ## Licença
