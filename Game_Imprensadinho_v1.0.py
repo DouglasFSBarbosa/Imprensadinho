@@ -7,7 +7,7 @@ def jogar():
     maior_numero = 51
     num_randomico = int(randint(2, 49))  # Gera um número aleatório entre 1 e 50)
 
-    # print(num_randomico)  # Para testes, exibe o número secreto gerado aleatoriamente
+    print(num_randomico)  # Para testes, exibe o número secreto gerado aleatoriamente
 
 
     print("*********************************** \n| BEM VINDO AO JOGO IMPRENSADINHO |\n*********************************** \nO sistema irá sortear um número de forma randômica a cada partida. Seu objetivo é escolher o número antecessor e o sucessor do número secreto. \nCaso consiga imprensar o número secreto, você vence. \nSe acertar o número secreto, você perde.\nBoa sorte e bom jogo! \n")
@@ -26,7 +26,7 @@ def jogar():
 
         #Game Over
         if num_jogador == num_randomico:
-            print("Game Over! Você acertou o número! \n O número secreto era: ", num_randomico)
+            print("Game Over! Você acertou o número! \nO número secreto era: ", num_randomico)
             break
 
         # Atualiza o menor e maior número com base na jogada do jogador
