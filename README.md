@@ -50,5 +50,5 @@ Caso queira ver alguns dos meu projetos de jogos digitais, basta acessar o meu p
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DouglasFSBarbosa&theme=hacker&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&dates=C01CD0&fire=EB1B1B&ring=1C5110&stroke=33FF33&border=33FF33&sideNums=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DouglasFSBarbosa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFSBarbosa&layout=compact&bg_color=000&border_color=33FF33&title_color=33FF33&text_color=FFF)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DouglasFSBarbosa))
 
